@@ -1,8 +1,8 @@
 # ExampleLinkedIn
+
+React-js / Firebase / Redux
+
 Thanks for Sonny Sangha
-
-
-
 https://www.youtube.com/watch?v=QaYts9sPmcY
 
 ## Available Scripts
