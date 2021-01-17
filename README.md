@@ -5,6 +5,9 @@ React-js / Firebase / Redux
 Thanks for Sonny Sangha
 https://www.youtube.com/watch?v=QaYts9sPmcY
 
+![Screenshot_5](https://user-images.githubusercontent.com/73894794/104849154-4dc83700-58f9-11eb-835a-b82602111f38.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
